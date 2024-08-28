@@ -12,5 +12,6 @@ elif d>0:
     x1=(-b+sqrt(d))/(2*a)
     x2 = (-b - sqrt(d)) / (2 * a)
     print("X1=", x1, "X2=", x2)
+
 else:
     print("roots are imaginary")
